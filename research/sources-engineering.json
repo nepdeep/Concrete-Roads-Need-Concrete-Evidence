@@ -1,0 +1,84 @@
+{
+  "accessed": "2026-10-18",
+  "scope": "Primary sources supporting engineering-options.md. Proposed pilot and arithmetic scenarios are original analytical recommendations, not claims from these sources.",
+  "sources": [
+    {
+      "id": "E1",
+      "title": "Standard Specifications for Road and Bridge Works, 2073, Third Amendment 2082",
+      "publisher": "Government of Nepal, Department of Roads",
+      "date": "2082 BS; effective 1 Shrawan 2082",
+      "url": "https://dor.gov.np/qrdc/publication/qrdc-guidelines-standard-specifications-codes-and-norms/force/standard-specifications-for-road-and-bridge-works-3rd-amendment-2082",
+      "locators": ["Section 3200", "3201(6)(a), PDF p752", "3202(9)(l), PDF pp778-779", "3202(11), PDF p781", "3202(12), PDF p786 (printed p3200-37)", "1308(5), PDF p281", "1309(5), PDF p285"],
+      "verified": "PDF downloaded and text extracted locally; 787 pages. New concrete vehicle opening requires 28 days plus completed sealed joints/shoulders and Engineer approval; asphalt opening requires cooling to ambient and approval.",
+      "caution": "Do not replace Nepal new-construction requirements with FHWA rapid-repair opening examples. Contract-specific amendments must also be checked."
+    },
+    {
+      "id": "E2",
+      "title": "Guidelines for the Design of Flexible Pavements, Second Edition 2021",
+      "publisher": "Government of Nepal, Department of Roads",
+      "date": "2021-04",
+      "url": "https://dor.gov.np/qrdc/publication/guidelines-and-manualsguidelines-and-manuals/force/guidelines-for-the-design-of-flexible-pavement-2-21",
+      "locators": ["pp10-14, scope, selection and performance", "pp19-22 traffic", "Annex D surface dressing", "Annex E low volume roads"],
+      "verified": "85-page official PDF read. Explicitly withdraws first 2014 edition; provides multi-factor selection, layered design, rutting/fatigue considerations and distinct low-volume methods."
+    },
+    {
+      "id": "E3",
+      "title": "Pavement Design Guidelines (Rigid Pavement)",
+      "publisher": "Government of Nepal, Department of Roads",
+      "date": "2021",
+      "url": "https://dor.gov.np/qrdc/publication/guidelines-and-manualsguidelines-and-manuals/force/rigid-pavement-guideline-2-21",
+      "locators": ["pp14-18 foundation and concrete properties", "pp19-21 slab stress conditions and load transfer"],
+      "verified": "Official PDF downloaded and title verified as 2021. Major-highway DLC minimum recommendation 150 mm; flexural-strength pavement design and direct beam testing for major projects; traffic/temperature/support affect slab design.",
+      "caution": "The URL was intermittently slow in browser retrieval; local PDF extraction succeeded. Do not use 2016 mirror copies as the current 2021 text."
+    },
+    {
+      "id": "E4",
+      "title": "Geotechnical Aspects of Pavements, Chapter 7",
+      "publisher": "US Federal Highway Administration",
+      "date": "2006",
+      "url": "https://www.fhwa.dot.gov/engineering/geotech/pubs/05037/07a.cfm",
+      "verified": "Explains moisture entry and drainage effects on pavement materials and distresses.",
+      "caution": "Mechanisms are transferable; design thresholds and site outcomes require Nepal data."
+    },
+    {
+      "id": "E5",
+      "title": "Protecting Slopes to Build Resilient Roads in Nepal",
+      "publisher": "World Bank",
+      "date": "2025-02-10",
+      "url": "https://www.worldbank.org/en/news/feature/2025/02/10/protecting-slopes-to-build-resilient-roads-in-nepal",
+      "verified": "Describes DoR-implemented Narayanghat-Mugling slope work using drainage, bioengineering and specialist stabilisation. Supports treating corridor geohazards separately from paving choice.",
+      "caution": "Project narrative, not a controlled comparison of asphalt and concrete."
+    },
+    {
+      "id": "E6",
+      "title": "Improving Transportation Investment Decisions Through Life-Cycle Cost Analysis",
+      "publisher": "US Federal Highway Administration",
+      "date": "Updated 2022-11-16",
+      "url": "https://www.fhwa.dot.gov/pavement/lcca/lccafact/",
+      "verified": "Explains comparable alternatives, activity schedules, agency/user cost and discounting."
+    },
+    {
+      "id": "E7",
+      "title": "Life-Cycle Cost Analysis Primer",
+      "publisher": "US Federal Highway Administration",
+      "date": "2002",
+      "url": "https://www.fhwa.dot.gov/pavement/lcca/010621.pdf",
+      "locators": ["pp12-16 agency/user costs and residual service life"],
+      "verified": "Covers constant-price costs, user impacts and remaining service life at analysis end. It is a method source, not evidence for Nepal costs or lifetimes."
+    },
+    {
+      "id": "E8",
+      "title": "Warm Mix Asphalt FAQs",
+      "publisher": "US Federal Highway Administration",
+      "url": "https://www.fhwa.dot.gov/innovation/everydaycounts/edc-1/wma-faqs.cfm",
+      "verified": "Documents warm-mix technology and lower-temperature production; used only to identify a trial variant, without adopting foreign savings percentages."
+    },
+    {
+      "id": "E9",
+      "title": "Asphalt Pavement Recycling with Reclaimed Asphalt Pavement",
+      "publisher": "US Federal Highway Administration",
+      "url": "https://www.fhwa.dot.gov/Pavement/recycling/rap/index.cfm",
+      "verified": "Recycling must remain cost-effective, environmentally responsible and meet performance requirements; appropriate materials evaluation and mix verification are necessary."
+    }
+  ]
+}

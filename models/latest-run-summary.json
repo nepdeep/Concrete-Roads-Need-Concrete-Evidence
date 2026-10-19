@@ -1,0 +1,170 @@
+{
+  "options": {
+    "A": {
+      "direct_works_npr": 33.56,
+      "capex_base_npr": 35.238,
+      "cash_budget_npr": 45.792,
+      "agency_lcc_npr": 55.309
+    },
+    "B": {
+      "direct_works_npr": 52.04,
+      "capex_base_npr": 54.642,
+      "cash_budget_npr": 71.007,
+      "agency_lcc_npr": 60.701
+    },
+    "C": {
+      "direct_works_npr": 39.254,
+      "capex_base_npr": 41.217,
+      "cash_budget_npr": 53.561,
+      "agency_lcc_npr": 53.977
+    }
+  },
+  "matrix_profiles": {
+    "balanced": {
+      "weights": {
+        "lcc": 20,
+        "capex": 10,
+        "fit": 20,
+        "qa": 10,
+        "maintenance": 10,
+        "local": 10,
+        "disruption": 10,
+        "utilities": 5,
+        "environment": 5
+      },
+      "scores": {
+        "A": 3.8259145529273995,
+        "B": 3.561671242650627,
+        "C": 4.127472359504764
+      },
+      "ranking": [
+        "C",
+        "A",
+        "B"
+      ]
+    },
+    "budget_and_access": {
+      "weights": {
+        "lcc": 25,
+        "capex": 25,
+        "fit": 5,
+        "qa": 15,
+        "maintenance": 5,
+        "local": 5,
+        "disruption": 10,
+        "utilities": 5,
+        "environment": 5
+      },
+      "scores": {
+        "A": 4.3698931911592505,
+        "B": 3.3676443953578654,
+        "C": 4.11868089876191
+      },
+      "ranking": [
+        "A",
+        "C",
+        "B"
+      ]
+    },
+    "domestic_supply_and_maintenance": {
+      "weights": {
+        "lcc": 10,
+        "capex": 5,
+        "fit": 15,
+        "qa": 5,
+        "maintenance": 25,
+        "local": 30,
+        "disruption": 5,
+        "utilities": 0,
+        "environment": 5
+      },
+      "scores": {
+        "A": 3.0129572764637,
+        "B": 3.9308356213253135,
+        "C": 3.7387361797523817
+      },
+      "ranking": [
+        "B",
+        "C",
+        "A"
+      ]
+    }
+  },
+  "sensitivity_counts": {
+    "A": 106,
+    "B": 45,
+    "C": 26
+  },
+  "breakpoints": [
+    {
+      "asphalt_overlay_years": 3,
+      "asphalt_lcc_npr": 76292270.14713544,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": -14419776.878026359
+    },
+    {
+      "asphalt_overlay_years": 4,
+      "asphalt_lcc_npr": 66837961.34436619,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": -4965468.075257115
+    },
+    {
+      "asphalt_overlay_years": 5,
+      "asphalt_lcc_npr": 61108980.09476817,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 763513.1743409112
+    },
+    {
+      "asphalt_overlay_years": 6,
+      "asphalt_lcc_npr": 57324426.49764508,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 4548066.771463998
+    },
+    {
+      "asphalt_overlay_years": 7,
+      "asphalt_lcc_npr": 54684515.16367394,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 7187978.10543514
+    },
+    {
+      "asphalt_overlay_years": 8,
+      "asphalt_lcc_npr": 52673791.12590987,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 9198702.143199205
+    },
+    {
+      "asphalt_overlay_years": 9,
+      "asphalt_lcc_npr": 51126291.860853784,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 10746201.408255294
+    },
+    {
+      "asphalt_overlay_years": 10,
+      "asphalt_lcc_npr": 49800096.331903525,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 12072396.937205553
+    },
+    {
+      "asphalt_overlay_years": 11,
+      "asphalt_lcc_npr": 48876616.58522527,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 12995876.683883809
+    },
+    {
+      "asphalt_overlay_years": 12,
+      "asphalt_lcc_npr": 48063096.87286281,
+      "concrete_lcc_npr": 61872493.26910908,
+      "concrete_minus_asphalt_npr": 13809396.39624627
+    }
+  ],
+  "crossings": {
+    "B": {
+      "first_year_at_or_below_A": null,
+      "first_year_remaining_below_A_to_horizon": null
+    },
+    "C": {
+      "first_year_at_or_below_A": 20,
+      "first_year_remaining_below_A_to_horizon": 20
+    }
+  }
+}

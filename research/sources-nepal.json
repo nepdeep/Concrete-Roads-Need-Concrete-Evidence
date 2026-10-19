@@ -1,0 +1,183 @@
+{
+  "research_date": "2026-10-18",
+  "scope": "Nepal pavement material policy evidence",
+  "sources": [
+    {
+      "id": "NP01",
+      "title": "Public Procurement Use and Promotion of Domestic Products Directive, 2083",
+      "publisher": "Office of Prime Minister and Council of Ministers, Nepal",
+      "url": "https://opmcm.gov.np/content/606/guidelines-on-use-and-promotion-of-indigenous/",
+      "document_url": "https://giwmscdnone.gov.np/media/pdf_upload/IMG_0002_a7yupar.pdf",
+      "publication_date": "2083 Ashoj 30 (16 October 2026; landing page)",
+      "access_date": "2026-10-18",
+      "local_file": "research/sources/2026-domestic-products-procurement-directive.pdf",
+      "locator": "PDF p.2 sections 4, 5(3), 5(4), 6(1); p.3 sections 7 and 8",
+      "supported_facts": [
+        "Section 5(3) makes road alternatives with domestic cement/local materials conditional on technical appropriateness.",
+        "Section 5(4) requires the study/design report to justify foreign material/technology and explain why the domestic alternative is unsuitable.",
+        "Sections 7-8 require documenting availability, quality, technical suitability, quantity/timing, and reasons for permitted foreign procurement."
+      ],
+      "limitations": "Scanned Nepali document was visually read on pages 2-3 because embedded OCR is corrupt. Analysis is an English paraphrase, not an official translation or comprehensive legal opinion."
+    },
+    {
+      "id": "NP02",
+      "title": "Government to prioritize construction of cement roads in place of blacktopped roads",
+      "publisher": "OnlineKhabar",
+      "url": "https://www.onlinekhabar.com/2026/10/2040571/government-to-prioritize-construction-of-cement-roads-in-place-of-blacktopped-roads",
+      "publication_date": "2083 Ashoj 30, 20:28 (16 October 2026)",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "Article matching the screenshot reports Cabinet approval of the domestic-products directive.",
+        "Article text retains the condition that domestic road alternatives be technically appropriate."
+      ],
+      "limitations": "News reporting is contextual evidence; official directive NP01 is authoritative for the wording. It does not establish industry influence or validate a universal material choice."
+    },
+    {
+      "id": "NP03",
+      "title": "Guidelines for the Design of Flexible Pavements (Second Edition 2021)",
+      "publisher": "Department of Roads, Nepal",
+      "url": "https://www.dor.gov.np/qrdc/publication/qrdc-guidelines-standard-specifications-codes-and-norms/guidelines-for-the-design-of-flexible-pavement-2-21",
+      "document_url": "https://dor.gov.np/qrdc/publication/guidelines-and-manualsguidelines-and-manuals/force/guidelines-for-the-design-of-flexible-pavement-2-21",
+      "publication_date": "April 2021; webpage 2078 Ashadh 9",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "The design framework considers wheel loads, traffic, climate, terrain, subgrade and available materials.",
+        "Main framework covers traffic above 2 million standard axles; annexes include low-volume roads and surface dressing.",
+        "Includes cement-treated base/subbase, crack-relief layers and SAMI, showing cement can be used beneath an asphalt surface."
+      ],
+      "limitations": "Design guidance is not a nationwide policy life-cycle cost comparison. Verify applicable amendments and project contract specifications before design."
+    },
+    {
+      "id": "NP04",
+      "title": "Pavement Design Guidelines (Rigid Pavement), 2021",
+      "publisher": "Department of Roads, Nepal",
+      "url": "https://www.dor.gov.np/qrdc/publication/rsdp-procurement-plan/rigid-pavement-guideline-2-21",
+      "document_url": "https://dor.gov.np/qrdc/publication/guidelines-and-manualsguidelines-and-manuals/force/rigid-pavement-guideline-2-21",
+      "publication_date": "2021; webpage 2078 Jestha 4",
+      "access_date": "2026-10-18",
+      "locator": "Printed pp.10-12, sections1.2,1.4.1,2.1,2.2; drainage chapters",
+      "supported_facts": [
+        "Covers jointed plain concrete pavement; scope is daily commercial traffic above450 vehicles with laden weight above3tonnes, excluding low-volume rural roads.",
+        "Design includes traffic-load fatigue, temperature stress, subgrade/base, joints, dowels/tie bars and drainage.",
+        "Common transverse-joint spacing cited is4.5m; design-period guidance generally30years, with20years sometimes considered.",
+        "Recommends continuous48-hour axle survey with sample thresholds depending on commercial traffic volume."
+      ],
+      "limitations": "Design period is an assumption/target, not guaranteed field service life. Do not apply the guideline directly to low-volume rural roads."
+    },
+    {
+      "id": "NP05",
+      "title": "Guideline for Construction of Cement Treated Sub-base/Base (2024)",
+      "publisher": "Department of Roads, Nepal",
+      "url": "https://dor.gov.np/home/publication/guide-to-road-slope-and-protection/force/26-dor-pbl-gdl-2024-026-cement-treated-sub-base-base-guideline--dor-2024-final",
+      "publication_date": "June 2024; DoR listing published 2081 Bhadra 30",
+      "access_date": "2026-10-18",
+      "locator": "Printed pp.1-3 and7, sections2.2-2.3,2.7",
+      "supported_facts": [
+        "CTB is an established Nepal option with material, mix design and construction guidance.",
+        "Seven-day unconfined compressive strength targets: CTB4.5–7MPa; CTSB1.5–3MPa.",
+        "Cement content is determined by strength and durability criteria, not a universally fixed percentage.",
+        "Guideline includes a crack-relief layer requirement/design section."
+      ],
+      "limitations": "Specifying an illustrative cement percentage or layer thickness is not a structural design. Site material trials, durability tests and construction acceptance are necessary."
+    },
+    {
+      "id": "NP06",
+      "title": "Nepal Foreign Trade Statistics, annual FY2081/82",
+      "publisher": "Department of Customs, Nepal",
+      "url": "https://www.customs.gov.np/content/10/statistics-a--and-2081-82/",
+      "document_url": "https://giwmscdnone.gov.np/media/files/FTS_Annual_2081_82_twybrul.xlsx",
+      "publication_date": "Reporting period mid-July2024 to mid-July2025; landing page27 Chait2082",
+      "access_date": "2026-10-18",
+      "local_file": "research/sources/customs-annual-2081-82.xlsx",
+      "locator": "5_Imports_By_Commodity!A862:F862;4_Imports_By_Commodity_Partner!A3507:G3510;7_Exports_By_Commodity!A284:E286",
+      "supported_facts": [
+        "Petroleum bitumen HS27132000 imports158506932.904297kg; value11413173.1173623 thousand NPR.",
+        "India supplied150171826.904297kg,94.741488% of this petroleum bitumen mass (calculated).",
+        "Non-white Portland cement HS25232900 exports356472.800001888tonnes, value2219418.41939 thousand NPR.",
+        "Clinker HS25231000 exports490272.062950714tonnes; imports31401.5319762973tonnes."
+      ],
+      "limitations": "Preliminary ASYCUDA data from24major offices, excludes offices without ASYCUDA; annual historical trade not current prices or road-only consumption. Customs value is not a delivered construction rate. Other bituminous HS categories excluded from petroleum-bitumen headline."
+    },
+    {
+      "id": "NP07",
+      "title": "Foreign Direct Investment in Cement Industry in Nepal: A Study on Socio-economic Impact",
+      "publisher": "Nepal Rastra Bank, Economic Research Department",
+      "url": "https://www.nrb.org.np/contents/uploads/2021/05/2078.01.25-Final-Draft-of-Cement.pdf",
+      "publication_date": "May2021 (2018/19 sector data)",
+      "access_date": "2026-10-18",
+      "locator": "Executive summary items4-5;limitations section1.4",
+      "supported_facts": [
+        "2018/19 installed cement capacity15million tonnes/year across55industries; domestic output7.49million tonnes; domestic demand9.05million tonnes.",
+        "Seven sampled factories averaged50.41% capacity utilization.",
+        "Report identifies certification, consistency and bulk supply constraints plus local pollution effects."
+      ],
+      "limitations": "Historical snapshot, not2026capacity. Seven-factory operational sample and judgmental community sampling limit generalizability. Do not present future demand projections as facts."
+    },
+    {
+      "id": "NP08",
+      "title": "Nepal Country Climate and Development Report",
+      "publisher": "World Bank",
+      "url": "https://documents1.worldbank.org/curated/en/099415012072225780/pdf/P176737-6645dc69-0e51-4d05-9eb7-4d74af8c17ba.pdf",
+      "publication_date": "2022",
+      "access_date": "2026-10-18",
+      "locator": "Section3.2",
+      "supported_facts": [
+        "Roads are exposed to heavy rainfall, floods and landslides.",
+        "Report estimates strategic-road-network direct climate-damage repair costs at NPR3–6billion/year over its next10years.",
+        "Indirect costs estimated50–75%of direct costs, conditional on prompt repair."
+      ],
+      "limitations": "Model-based2022projection, not an observed current annual bill; cannot attribute all climate damage to asphalt or claim concrete prevents slope/bridge failure."
+    },
+    {
+      "id": "NP09",
+      "title": "Thickness and Cost Comparison of Cement Treated and Granular Base for Flexible Pavement: A Case Study of Pathlaiya-Nijgadh Section of East-West Highway of Nepal",
+      "publisher": "Journal of Engineering Technology and Planning;Narayan KC,Rajendra Aryal,Buddhi Raj Joshi,Padma Bahadur Shahi",
+      "url": "https://www.nepjol.info/index.php/joetp/article/download/49579/36879/146699",
+      "doi": "10.3126/joetp.v3i1.49579",
+      "publication_date": "October2022,Volume3,Number1",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "Models15-year design traffic34.86msa at5%annual growth and8%effectiveCBR.",
+        "Reports CTB pavement initial estimate5.63%lower and combined initial+maintenance estimate24.39%lower than granular-base pavement for its assumptions."
+      ],
+      "limitations": "One corridor analytical estimate, not randomized field evidence or universal saving; not rigid-versus-flexible national comparison. Do not import its rupee estimates into2026without updating rates."
+    },
+    {
+      "id": "NP10",
+      "title": "Comparative study of flexible and rigid pavement",
+      "publisher": "Nepal Research and Innovation Center;Alpha Sharma,Dharma Maharjan,Junu Shrestha,Dipika Rai",
+      "url": "https://nric.org.np/research/comparative-study-of-flexible-and-rigid-pavement/",
+      "publication_date": "2022-01-11",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "Public review explicitly says location, traffic and subgrade affect pavement life-cycle cost and region-specific studies are needed."
+      ],
+      "limitations": "Review/abstract page, not a government-commissioned2026policy appraisal or completed nationwide comparison."
+    },
+    {
+      "id": "NP11",
+      "title": "Life Cycle Cost Analysis of Flexible and Rigid Pavemtn MatrerIal",
+      "publisher": "IJTIMES;Nitish Kumar K",
+      "url": "https://ijtimes.com/paper-view.php?id=IJT-2021-F19274",
+      "publication_date": "June2018,Vol4No6,pp803-807",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "Abstract describes a24kmButwal case comparison using a30-year analysis and reports28%higher rigid construction cost."
+      ],
+      "limitations": "Abstract reviewed only; low evidentiary weight until full methods/rates and consistency independently audited. Shows comparative literature exists, not that the policy is justified."
+    },
+    {
+      "id": "NP12",
+      "title": "Pavement Analysis System: User Manual",
+      "publisher": "Department of Roads,Nepal",
+      "url": "https://fpd.dor.gov.np/manual",
+      "publication_date": "Undated;sitecopyright2026",
+      "access_date": "2026-10-18",
+      "supported_facts": [
+        "Official tool calculates layered elastic stresses,strains and displacements and provides performance checks.",
+        "Manual identifies presumptive material values as preliminary and requires site-specific lab results for final design."
+      ],
+      "limitations": "Analytical elastic pavement tool, not a model of landslides,hydraulic failure or observed pavement life; no project calculation performed here."
+    }
+  ]
+}

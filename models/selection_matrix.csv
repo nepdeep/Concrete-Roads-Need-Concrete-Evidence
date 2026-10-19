@@ -1,0 +1,10 @@
+﻿criterion,weight,A,B,C,reason
+30-year agency cost,20,4.8795727646369995,4.446134845074813,5.0,Calculated: score=5 × lowest modeled LCC / option LCC. Model uncertainty remains.
+Initial budget affordability,10,5.0,3.224442736356649,4.2747235950476385,Calculated: score=5 × lowest base capex / option capex. Separate liquidity constraint; overlaps cost deliberately.
+Fit to a varied corridor,20,3,4,5,"Judgment: C targets permanent high-stress locations; A less suited to assumed slow/heavy load stress; B sacrifices flexibility on ordinary stretches. Depends on successful diagnosis, drainage and stable foundations."
+Deliverability and quality control,10,4.5,2.5,3.5,"Judgment: established asphalt supply versus additional concrete paving, joint and curing skills; C needs both and transition management."
+Recurring maintenance burden,10,2.5,4,3.5,"Judgment: asphalt needs more frequent interventions under assumed service lives; concrete still needs joints, slabs and drain upkeep. Overlaps LCC only for non-cash management reliability."
+Domestic supply and import exposure,10,2,4.5,3,"Judgment: concrete uses domestic cement, with fuel/equipment/inputs still partly imported; asphalt also uses local aggregate and labour. Not a quantified foreign-exchange saving."
+Construction access and reopening,10,4.5,2,3.5,Judgment: concrete new-construction 28-day traffic closure per DoR; staged partial-width work may maintain access but does not waive cure requirement.
+Utility access and staged adaptation,5,5,2,4,"Judgment: asphalt easier to cut, restore and strengthen; concrete most suitable after utility conflicts resolved."
+Environmental evidence,5,3,3,3,"Neutral placeholder: no Nepal mix EPDs, haul inventory, recycling or vehicle-use model. No environmental winner claimed."
